@@ -1,1 +1,2 @@
 trojan://PoSQBShqwNV9wKX4WHxDoLxbvp4eQYnD8v@130.94.78.17:443#%3E%3E%40oneclickvpnkeys%3A%3AGB
+vless://77f5211d-055e-494c-af83-4ae460d982b3@free1.ziroxcompany.ir:8880?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&authority=free.ziroxcompany.ir&insecure=1&fp=chrome&type=grpc&serviceName=%2Fdashboard&allowInsecure=1&sni=free.ziroxcompany.ir#%3E%3E%40prrofile_purple%3A%3AGB
