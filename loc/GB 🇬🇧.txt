@@ -1,0 +1,1 @@
+vless://6d0023ce-5c13-47ed-8e0e-a7b00ebce31a@britain.lorluma.ir:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#%3E%3E%40v2ray1_ng%3A%3AGB
