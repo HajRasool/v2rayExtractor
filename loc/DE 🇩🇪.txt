@@ -1,2 +1,1 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Uk91RXFzTDhJVU1NVmI0d0R3bkdV@57.129.121.230:10443#%3E%3E%40configV2rayNG%3A%3ADE
-vless://StableInternet@www.speedtest.net:2053?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=StableInternet&allowInsecure=0&sni=grc.accuratenetworkchecker.ir#%3E%3E%40v2ray1_ng%3A%3ADE
