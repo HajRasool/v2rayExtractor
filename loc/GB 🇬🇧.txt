@@ -1,7 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@188.119.149.27:1080#%3E%3E%40prrofile_purple%3A%3AGB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6ejBkSGpEZm9hU2FadVJGTEdILWhOZkJBTFNFSlVZRA@194.164.92.198:1234#%3E%3E%40v2ray1_ng%3A%3AGB
-vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@162.159.38.119:443?path=%2Fhdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&type=ws&allowInsecure=0&sni=terazhediii.info#%3E%3E%40v2ray1_ng%3A%3AGB
-vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@cf.levikogjgfdd.ir:443?path=%2Fhdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhediii.info#%3E%3E%40v2ray1_ng%3A%3AGB
-vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@one-for-all.levikogjgfdd.ir:443?path=%2Fhdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhediii.info#%3E%3E%40v2ray1_ng%3A%3AGB
 vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@104.21.40.208:8443?path=%2F&security=tls&encryption=none&insecure=0&host=ad-010.vector2llqn.info&fp=chrome&type=ws&allowInsecure=0&sni=ad-010.vector2llqn.info#%3E%3E%40prrofile_purple%3A%3AGB
-vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@millionaire.levikogjgfdd.ir:443?path=%2Fhdgrbws&security=tls&encryption=none&host=terazhediii.info&fp=chrome&type=ws&sni=terazhediii.info#%3E%3E%40v2ray1_ng%3A%3AGB
