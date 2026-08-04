@@ -1,2 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6ejBkSGpEZm9hU2FadVJGTEdILWhOZkJBTFNFSlVZRA@194.164.92.198:1234#%3E%3E%40v2ray1_ng%3A%3AGB
 vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@104.21.40.208:8443?path=%2F&security=tls&encryption=none&insecure=0&host=ad-010.vector2llqn.info&fp=chrome&type=ws&allowInsecure=0&sni=ad-010.vector2llqn.info#%3E%3E%40prrofile_purple%3A%3AGB
