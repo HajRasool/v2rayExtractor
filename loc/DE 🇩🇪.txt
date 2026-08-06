@@ -1,2 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Uk91RXFzTDhJVU1NVmI0d0R3bkdV@57.129.121.230:10443#%3E%3E%40configV2rayNG%3A%3ADE
 vless://2cca8201-c93e-40eb-bd8a-fea4170c169e@185.136.12.190:443?mode=auto&path=%2Fapi%2Fv1%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=deu683.lackerdeu.org&fp=firefox&type=xhttp&allowInsecure=0&sni=deu683.lackerdeu.org#%3E%3E%40v2ray1_ng%3A%3ADE
