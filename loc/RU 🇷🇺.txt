@@ -1,2 +1,1 @@
-vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@77.222.46.162:2200?path=%2Fv1&security=none&encryption=none&host=77.222.46.162&type=ws#%3E%3E%40v2ray1_ng%3A%3ARU
 vless://a2aa7759-ddac-4d02-bf9d-de62cbff9481@104.171.132.232:2200?path=%2Fv1&security=none&encryption=none&type=ws#%3E%3E%40v2ray1_ng%3A%3ARU
