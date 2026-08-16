@@ -1,2 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUbVhTcGNSQmJodkhEZzY2Ym8ydzg5YlRveFFzYk1vYQ@31.76.30.79:10808#%3E%3E%40v2ray1_ng%3A%3AFI
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyU2VZY2lnX1hCeThxM2szM05wSzNB@65.109.178.10:1080#%3E%3E%40v2ray1_ng%3A%3AFI
+vless://0a12328a-572e-46a5-9332-84d21a986407@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=SvnTeamChannel.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#%3E%3E%40v2ray1_ng%3A%3AFI
