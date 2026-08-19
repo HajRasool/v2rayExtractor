@@ -1,0 +1,1 @@
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:18443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=disagreedebut.net#%3E%3E%40v2ray1_ng%3A%3ARU
