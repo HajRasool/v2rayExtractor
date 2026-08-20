@@ -1,3 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUbVhTcGNSQmJodkhEZzY2Ym8ydzg5YlRveFFzYk1vYQ@31.76.30.79:10808#%3E%3E%40v2ray1_ng%3A%3AFI
 vless://c7e9c591-2764-423a-afca-efbd010fd396@188.241.241.37:2053?path=%2F&security=tls&encryption=none&insecure=0&host=forfreeuse.rtqa.ru&type=ws&allowInsecure=0&sni=forfreeuse.rtqa.ru#%3E%3E%40prrofile_purple%3A%3AFI
-vless://834d8b71-2076-4f5a-d3f3-3dc3c2bb7196@k2.cloud--vpn.site:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#%3E%3E%40prrofile_purple%3A%3AFI
