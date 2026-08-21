@@ -1,1 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.140:443#%3E%3E%40prrofile_purple%3A%3APL
+vless://be3960db-f339-479a-be7b-c1a130601141@94.156.45.130:443?security=reality&encryption=none&pbk=KOgPteoWEwtVtykS2FGV5NHdZw6197VzbITPGkUJDBQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=electric-mantis.cdn.cachefleet.com#%3E%3E%40v2ray1_ng%3A%3APL
