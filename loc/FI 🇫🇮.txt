@@ -1,2 +1,0 @@
-vless://d9eda159-18d6-4457-8983-55523a21658c@k2.cloud--vpn.site:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#%3E%3E%40v2ray1_ng%3A%3AFI
-vless://f2900749-7cff-42b7-9566-dfb03840d374@land.zavqeron.ir:2053?path=%2Ffi-cdn&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=land.zavqeron.ir&fp=chrome&type=ws&allowInsecure=0&sni=zavqeron.ir#%3E%3E%40v2ray1_ng%3A%3AFI
