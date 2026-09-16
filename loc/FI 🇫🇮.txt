@@ -1,0 +1,1 @@
+vless://f570779f-bbf7-4ef9-e657-8ebbdef2609b@k2.cloud--vpn.site:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#%3E%3E%40v2ray1_ng%3A%3AFI
