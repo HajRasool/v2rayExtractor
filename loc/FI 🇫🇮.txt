@@ -1,1 +1,1 @@
-vless://e84e0918-68ca-4fcc-a1d1-b566fd9ac7ee@193.23.201.65:5432?security=tls&encryption=none&insecure=0&headerType=none&fp=safari&type=tcp&allowInsecure=0&flow=xtls-rprx-vision#%3E%3E%40v2ray1_ng%3A%3AFI
+vless://72d334af-a4e9-ed8f-cbec-75317ce0b463@122.8.44.9:443?path=%2F&security=reality&encryption=none&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&fp=chrome&type=xhttp&sni=download.nvidia.com#%3E%3E%40v2ray1_ng%3A%3AFI
