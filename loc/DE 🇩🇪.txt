@@ -1,2 +1,1 @@
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@rubifen.adaspoloandco.com:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#%3E%3E%40v2ray1_ng%3A%3ADE
-vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@nasnet-571299667-direct.mbghalibaf.com:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision#%3E%3E%40v2ray1_ng%3A%3ADE
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@82.202.141.141:9892?security=reality&encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aa#%3E%3E%40v2ray1_ng%3A%3ADE
