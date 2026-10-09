@@ -1,1 +1,2 @@
 ss://YWVzLTEyOC1nY206ZjkzMDBhOWJmMzlhZTAzNDdjM2EzYmZiYzRkZDc3NTQ@185.103.110.68:18283#%3E%3E%40v2ray1_ng%3A%3AFI
+vless://b3a11068-1a7e-4643-85de-7c82cce46943@193.223.106.13:33742?mode=auto&path=%2FShamanXHTTP2026&security=tls&encryption=none&insecure=0&host=fi-966ffd3f4f.shamanapp.online&fp=firefox&type=xhttp&allowInsecure=0&sni=fi-966ffd3f4f.shamanapp.online#%3E%3E%40v2ray1_ng%3A%3AFI
