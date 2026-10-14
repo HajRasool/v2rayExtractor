@@ -1,0 +1,1 @@
+trojan://e309e031-991e-4656-9934-44d10deb8fd8@188.114.98.0:443?path=%2F0962&security=tls&alpn=http%2F1.1&insecure=0&host=nimm.mpd.cc.cd&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=nimm.mpd.cc.cd#%3E%3E%40prrofile_purple%3A%3ATR
